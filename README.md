@@ -1,0 +1,2 @@
+# stravastats
+Testing Strava API
